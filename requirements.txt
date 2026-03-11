@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-bcrypt
-pillow
-plotly
-folium
-streamlit-folium
